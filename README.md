@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamianlGilbert
-- 🌱 I’m currently learning C++ through college & basic web development as a personal hobby
+- 🌱 I’m currently learning C++ through college & front end web development as a personal hobby
 - 📫 How to reach me: damianlgilbert04@gmail.com
 
 <!---
